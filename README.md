@@ -1,4 +1,4 @@
-# Getting Started With Schematics
+# Getting Started With Oughta-Test
 
 This repository is a basic Schematic to generate spec files for testing. A lot of the code was directly taken from https://github.com/gparlakov/scuri
 
