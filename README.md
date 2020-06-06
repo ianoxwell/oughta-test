@@ -1,6 +1,6 @@
 # Getting Started With Schematics
 
-This repository is a basic Schematic implementation that serves as a starting point to create and publish Schematics to NPM.
+This repository is a basic Schematic to generate spec files for testing. A lot of the code was directly taken from https://github.com/gparlakov/scuri
 
 ### Testing
 
